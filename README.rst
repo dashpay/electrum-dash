@@ -4,7 +4,7 @@
 
 This repository is preserved **only for historical purposes** and is no longer maintained.  
 For the latest version of Electrum-Dash, please visit the active repository:  
-➡️ [https://github.com/Bertrand256/electrum-dash](https://github.com/Bertrand256/electrum-dash)
+➡️ https://github.com/Bertrand256/electrum-dash
 
 ---
 
