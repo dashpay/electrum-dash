@@ -1,4 +1,14 @@
-Electrum - Lightweight Bitcoin client
+# ⚠️ WARNING: This Repository Is Deprecated ⚠️
+
+**DO NOT USE THIS REPOSITORY!**
+
+This repository is preserved **only for historical purposes** and is no longer maintained.  
+For the latest version of Electrum-Dash, please visit the active repository:  
+➡️ [https://github.com/Bertrand256/electrum-dash](https://github.com/Bertrand256/electrum-dash)
+
+---
+
+Electrum Dash - Lightweight Dash client
 =====================================
 
 ::
@@ -6,7 +16,7 @@ Electrum - Lightweight Bitcoin client
   Licence: MIT Licence
   Author: Thomas Voegtlin
   Language: Python
-  Homepage: https://electrum.org/
+  Homepage: https://dash.org/
 
 
 .. image:: https://travis-ci.org/spesmilo/electrum.svg?branch=master
